@@ -66,7 +66,7 @@ Currently focused on RAG pipelines, LLM applications, and Computer Vision for re
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/prateek-singh-a42b06313/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-singh-a42b06313/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:preetrajput249@gmail.com)
 
 📍 New Delhi, India  |  🎓 B.Tech AI & ML — GGSIPU  |  💼 Open to work
